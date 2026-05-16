@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 2,
+  "versionName": "1.0.1",
   "apkUrl": "https://github.com/CoderNadir/OrdriliCatch-Releases/releases/download/v1.0.1/app-release.apk",
-  "releasedAt": "2026-05-16T09:49:21Z",
-  "releaseNotes": "Fixes call detection crash on Android 14 phones. Adds silent in-app update check (no UI yet). test",
+  "releasedAt": "2026-05-15T11:49:21Z",
+  "releaseNotes": "Fixes call detection crash on Android 14 phones. Adds silent in-app update check (no UI yet).",
   "minSupportedVersionCode": null
 }
