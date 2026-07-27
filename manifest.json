@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/CoderNadir/OrdriliCatch-Releases/releases/download/v1.0.2/app-release.apk",
-  "releasedAt": "2026-05-17T09:26:21Z",
-  "releaseNotes": "Update notifications now show a prompt with in-app one-tap install (no browser detour). New: restaurant phone with QR code on every receipt (side-by-side with customer QR). New: ordrili.app URL on every receipt. Smoother call-screen bubble (no dead zone, no jumps). Dynamic version in About.",
+  "versionCode": 4,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/CoderNadir/OrdriliCatch-Releases/releases/download/v1.1.0/app-release.apk",
+  "releasedAt": "2026-07-27T22:42:36Z",
+  "releaseNotes": "Ordrili Catch is now an authenticated companion: sign in with your staff account, see your Call History on Home, and caught calls report to the Ordrili dashboard automatically — plus a Send button on the in-call bubble. Removed all Bluetooth and location permissions.",
   "minSupportedVersionCode": null
 }
