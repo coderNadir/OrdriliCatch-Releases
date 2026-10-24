@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/CoderNadir/OrdriliCatch-Releases/releases/download/v1.2.0-stage/ordrili-catch-stage-1.2.0.apk",
-  "releasedAt": "2026-10-23T22:07:52Z",
-  "releaseNotes": "Stage 1.2.0: on-site Hub server picker, blocked screen for an expired add-on, stage channel.",
+  "versionCode": 6,
+  "versionName": "1.2.1",
+  "apkUrl": "https://github.com/CoderNadir/OrdriliCatch-Releases/releases/download/v1.2.1-stage/ordrili-catch-stage-1.2.1.apk",
+  "releasedAt": "2026-10-24T16:38:04Z",
+  "releaseNotes": "Stage 1.2.1: updater test build (no feature changes since 1.2.0).",
   "minSupportedVersionCode": null
 }
