@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/CoderNadir/OrdriliCatch-Releases/releases/download/v1.1.0/app-release.apk",
-  "releasedAt": "2026-07-27T22:42:36Z",
-  "releaseNotes": "Ordrili Catch is now an authenticated companion: sign in with your staff account, see your Call History on Home, and caught calls report to the Ordrili dashboard automatically — plus a Send button on the in-call bubble. Removed all Bluetooth and location permissions.",
+  "versionCode": 8,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/CoderNadir/OrdriliCatch-Releases/releases/download/v1.2.3/app-release.apk",
+  "releasedAt": "2026-11-01T16:05:56Z",
+  "releaseNotes": "Ordrili Catch 1.2.3: connect to your restaurant's Hub on site — the server panel shows the Hub's live status, finds it again when its network address changes, works with Windows Hubs, and has a Disconnect button. A clear screen now explains an expired add-on or restaurant access. Sign in with your staff account, see your Call History on Home, and caught calls report to the Ordrili dashboard automatically.",
   "minSupportedVersionCode": null
 }
